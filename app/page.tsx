@@ -51,7 +51,7 @@ export default function Home() {
             <h2
               className={`${playfair.variable} font-serif text-5xl md:text-6xl lg:text-7xl font-bold text-stone-800 mb-6`}
             >
-              Saint Clement of Ohrid
+              Свети Климент Охридски
             </h2>
             <p className="text-xl md:text-2xl text-stone-600 max-w-3xl mx-auto">
               Scholar, Writer, and First Bishop of the Bulgarian Orthodox Church
