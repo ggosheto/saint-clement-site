@@ -227,7 +227,7 @@ export default function Home() {
           <div className="container mx-auto px-4 text-center">
             <blockquote className="max-w-4xl mx-auto">
               <p className={`${playfair.variable} font-serif text-3xl italic mb-6`}>
-                &quot;Literacy is a path to spiritual enlightenment and the foundation of cultural identity.&quot;
+                {/*&quot;Literacy is a path to spiritual enlightenment and the foundation of cultural identity.&quot;*/}
               </p>
               <cite className="text-stone-300">— Attributed to Saint Clement of Ohrid</cite>
             </blockquote>
